@@ -1,0 +1,20 @@
+{
+  "name": "rest-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yddgit/hello-rest.git"
+},
+"dependencies": {
+    "koa": "2.13.0",
+    "koa-router": "9.1.0",
+    "koa-bodyparser": "4.3.0"
+  }
+}
